@@ -1,0 +1,170 @@
+[
+  {
+    "id": "emily-and-tom-1",
+    "thumb": "images/thumbs/emily-and-tom-1.jpg",
+    "full": "images/full/emily-and-tom-1.jpg",
+    "alt": "Emily and Tom, foreheads together at sunset",
+    "category": "engagement",
+    "featured": true
+  },
+  {
+    "id": "emily-and-tom-2",
+    "thumb": "images/thumbs/emily-and-tom-2.jpg",
+    "full": "images/full/emily-and-tom-2.jpg",
+    "alt": "Emily and Tom, engagement session",
+    "category": "engagement",
+    "featured": false
+  },
+  {
+    "id": "emily-and-tom-5",
+    "thumb": "images/thumbs/emily-and-tom-5.jpg",
+    "full": "images/full/emily-and-tom-5.jpg",
+    "alt": "Emily and Tom, black and white portrait",
+    "category": "engagement",
+    "featured": false
+  },
+  {
+    "id": "emily-and-tom-6",
+    "thumb": "images/thumbs/emily-and-tom-6.jpg",
+    "full": "images/full/emily-and-tom-6.jpg",
+    "alt": "Emily and Tom sharing a laugh, black and white",
+    "category": "engagement",
+    "featured": false
+  },
+  {
+    "id": "eliza-and-marvett-1",
+    "thumb": "images/thumbs/eliza-and-marvett-1.jpg",
+    "full": "images/full/eliza-and-marvett-1.jpg",
+    "alt": "Eliza and Marvett sharing a kiss on the beach",
+    "category": "couple",
+    "featured": true
+  },
+  {
+    "id": "eliza-and-marvett-2",
+    "thumb": "images/thumbs/eliza-and-marvett-2.jpg",
+    "full": "images/full/eliza-and-marvett-2.jpg",
+    "alt": "Eliza and Marvett, couples session",
+    "category": "couple",
+    "featured": false
+  },
+  {
+    "id": "eliza-and-marvett-3",
+    "thumb": "images/thumbs/eliza-and-marvett-3.jpg",
+    "full": "images/full/eliza-and-marvett-3.jpg",
+    "alt": "Eliza and Marvett, couples session",
+    "category": "couple",
+    "featured": false
+  },
+  {
+    "id": "natasha-1",
+    "thumb": "images/thumbs/natasha-1.jpg",
+    "full": "images/full/natasha-1.jpg",
+    "alt": "Natasha laughing in the park with flowers",
+    "category": "portrait",
+    "featured": true
+  },
+  {
+    "id": "natasha-2",
+    "thumb": "images/thumbs/natasha-2.jpg",
+    "full": "images/full/natasha-2.jpg",
+    "alt": "Natasha, portrait session",
+    "category": "portrait",
+    "featured": false
+  },
+  {
+    "id": "natasha-3",
+    "thumb": "images/thumbs/natasha-3.jpg",
+    "full": "images/full/natasha-3.jpg",
+    "alt": "Natasha, portrait session",
+    "category": "portrait",
+    "featured": false
+  },
+  {
+    "id": "tiana-1",
+    "thumb": "images/thumbs/tiana-1.jpg",
+    "full": "images/full/tiana-1.jpg",
+    "alt": "Tiana at a cafe table",
+    "category": "portrait",
+    "featured": true
+  },
+  {
+    "id": "grace-and-franz-1",
+    "thumb": "images/thumbs/grace-and-franz-1.jpg",
+    "full": "images/full/grace-and-franz-1.jpg",
+    "alt": "Grace and Franz embracing on the beach",
+    "category": "engagement",
+    "featured": false
+  },
+  {
+    "id": "grace-and-franz-2",
+    "thumb": "images/thumbs/grace-and-franz-2.jpg",
+    "full": "images/full/grace-and-franz-2.jpg",
+    "alt": "Grace and Franz, engagement session",
+    "category": "engagement",
+    "featured": false
+  },
+  {
+    "id": "grace-and-franz-3",
+    "thumb": "images/thumbs/grace-and-franz-3.jpg",
+    "full": "images/full/grace-and-franz-3.jpg",
+    "alt": "Grace and Franz, engagement session",
+    "category": "engagement",
+    "featured": false
+  },
+  {
+    "id": "noelle-1",
+    "thumb": "images/thumbs/noelle-1.jpg",
+    "full": "images/full/noelle-1.jpg",
+    "alt": "Noelle on the beach, hair in the wind",
+    "category": "portrait",
+    "featured": false
+  },
+  {
+    "id": "noelle-2",
+    "thumb": "images/thumbs/noelle-2.jpg",
+    "full": "images/full/noelle-2.jpg",
+    "alt": "Noelle, portrait session",
+    "category": "portrait",
+    "featured": false
+  },
+  {
+    "id": "noelle-3",
+    "thumb": "images/thumbs/noelle-3.jpg",
+    "full": "images/full/noelle-3.jpg",
+    "alt": "Noelle, portrait session",
+    "category": "portrait",
+    "featured": false
+  },
+  {
+    "id": "flowers-engagement-1",
+    "thumb": "images/thumbs/flowers-engagement-1.jpg",
+    "full": "images/full/flowers-engagement-1.jpg",
+    "alt": "Engagement session detail, bouquet of flowers",
+    "category": "engagement",
+    "featured": false
+  },
+  {
+    "id": "flowers-engagement-2",
+    "thumb": "images/thumbs/flowers-engagement-2.jpg",
+    "full": "images/full/flowers-engagement-2.jpg",
+    "alt": "Engagement session detail, bouquet of flowers",
+    "category": "engagement",
+    "featured": false
+  },
+  {
+    "id": "candid-portrait-1",
+    "thumb": "images/thumbs/candid-portrait-1.jpg",
+    "full": "images/full/candid-portrait-1.jpg",
+    "alt": "Candid black and white portrait",
+    "category": "portrait",
+    "featured": false
+  },
+  {
+    "id": "emily-and-tom-3",
+    "thumb": "images/thumbs/emily-and-tom-3.jpg",
+    "full": "images/full/emily-and-tom-3.jpg",
+    "alt": "Emily and Tom, engagement session",
+    "category": "engagement",
+    "featured": false
+  }
+]
